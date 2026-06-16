@@ -1,0 +1,11 @@
+disnake==2.11.0
+
+python-dotenv
+
+asyncpg
+
+aiohttp
+
+PyNaCl
+
+psutil
